@@ -45,11 +45,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31heuvgl5fud4mpy3wms775l3oye&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouzaf&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
